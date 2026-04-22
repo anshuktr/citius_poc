@@ -1,0 +1,5 @@
+region         = "eastus"
+environment    = "dev"
+resource_group_name = "dev-resources"
+owner          = "team-owner"
+naming_prefix  = "devvnet"

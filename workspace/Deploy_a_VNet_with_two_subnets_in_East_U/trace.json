@@ -1,0 +1,14 @@
+{
+  "iterations": 2,
+  "errors_per_iteration": [
+    [
+      {
+        "stage": "tflint",
+        "severity": "warning",
+        "summary": "terraform \"required_version\" attribute is required"
+      }
+    ],
+    []
+  ],
+  "final_status": "approved"
+}
